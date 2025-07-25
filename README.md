@@ -4,7 +4,14 @@
 **Make Sure To Download: Key_Store.json file which will generate ahead**
 **Otherwise You Will Lose Everything**
 
-## Follow The Steps
+---
+
+**Discord Game Answer: don't post this on x - don't wanna get banned**
+![WhatsApp Image 2025-07-25 at 19 05 51_1bb3da4b](https://github.com/user-attachments/assets/a8162a5a-e5a6-41f0-89e5-b1cf042bbad5)
+
+---
+
+## Now Follow The Steps
 
 > run in codespace
 > visit any repo
