@@ -1,4 +1,12 @@
-## Prove your soundness game win using zkPs
+# 🧩 How To Submit Your Proof On Soundness - imp
+
+**Even If You Have Lost Old Generated Private And Public Keys**
+**Make Sure To Download: Key_Store.json file which will generate ahead**
+**Otherwise You Will Lose Everything**
+
+## Prerequisites
+
+run in codespace - visit any repo - add code - create main and wait for 2-5 minutes
 
 # Commands
 
@@ -28,3 +36,6 @@ soundnessup install
 ```bash
 soundness-cli generate-key --name my-key
 ```
+
+
+**Made with ❤️ by [Morsyxbt](https://x.com/morsyxbt)**
