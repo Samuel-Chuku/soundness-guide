@@ -40,9 +40,12 @@ soundnessup install
 soundness-cli generate-key --name my-key
 ```
 
-# HereYou Need To Follow 2 Main Steps:
+**From Here You Need To Follow 3 Main Steps:**
 
 1. Copy The Public Key > Visit Soundness Discord > # soundness-cockpit > /newkey > paste your public key
 2. On Left Side You Will See: **Key_store.json** > right click and download it > Keep It Safe In Your Pc
+3. **Visit Your Discord Dm's Soundness Bot Sent You Summary: copy the part and edit the part is red box below to `my-key` and enter in codespace**
+![WhatsApp Image 2025-07-25 at 18 50 27_8fc1d0d4](https://github.com/user-attachments/assets/48ae472d-20dc-4882-b1a5-8f2295a30bd0)
 
+# **Done**
 **Made with ❤️ by [Morsyxbt](https://x.com/morsyxbt)**
