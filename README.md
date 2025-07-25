@@ -4,9 +4,12 @@
 **Make Sure To Download: Key_Store.json file which will generate ahead**
 **Otherwise You Will Lose Everything**
 
-## Prerequisites
+## Follow The Steps
 
-run in codespace - visit any repo - add code - create main and wait for 2-5 minutes
+> run in codespace
+> visit any repo
+> click on code
+> create codespace or main and wait for 2-5 minutes
 
 # Commands
 
@@ -37,5 +40,9 @@ soundnessup install
 soundness-cli generate-key --name my-key
 ```
 
+# HereYou Need To Follow 2 Main Steps:
+
+1. Copy The Public Key > Visit Soundness Discord > # soundness-cockpit > /newkey > paste your public key
+2. On Left Side You Will See: **Key_store.json** > right click and download it > Keep It Safe In Your Pc
 
 **Made with ❤️ by [Morsyxbt](https://x.com/morsyxbt)**
