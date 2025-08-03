@@ -46,6 +46,19 @@ soundnessup install
 ```bash
 soundness-cli generate-key --name my-key
 ```
+- If you have an existing key already, you can also import it using the code below.
+```
+soundness-cli import-key --name <name> --mnemonic "<mnemonic>"
+```
+*Replace <name> with any preferred key name of your chosing (eg my-key) and replace <mnemonic> with your saved 24-word mnemonic. The " " should remain.*
+
+- To see all avaialable keys in your current shell, use:
+```
+soundness-cli list-keys
+```
+*This will display all avaialble key names in your shell and their public keys.*
+
+---
 
 **From Here You Need To Follow 4 Main Steps:**
 
